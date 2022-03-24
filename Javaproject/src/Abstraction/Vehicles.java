@@ -30,6 +30,7 @@ class Scooter extends Vehicles
 		Scooter s= new Scooter();
 		s.main();
 		
+		
 
 	}
 
